@@ -12,7 +12,7 @@ A Python-based web scraping tool that converts web content to markdown format us
 
 ## Requirements
 - Python 3.6 or higher
-- Firecrawl API key (sign up at firecrawl.com)
+- Firecrawl API key (sign up at firecrawl.dev)
 - Required Python packages (installed via requirements.txt):
   - python-dotenv
   - firecrawl
